@@ -7,17 +7,23 @@
 
 #columna1 {
     width: 40%;
-    padding: 20px 0px 35px 0px;
+    padding: 30px 25px 35px 25px;
     border: 2px solid black;
-    background-color: rgb(228, 222, 106);
+    background: radial-gradient(circle, #fffa65, #ffaf40);
     text-align: center;
+}
+
+#biografia {
+    margin-top: 35px;
 
 }
 
 #columna2 {
+    padding: 30px;
     width: 60%;
     border: 2px solid black;
     text-align: center;
+
 }
 
 
@@ -26,6 +32,8 @@
     height: 300px;
     border-radius: 50%;
     border: 3px solid black;
+    margin-top: 90px;
+    margin-bottom: 60px;
 }
 
 .lista {
@@ -38,8 +46,12 @@
 }
 
 .titulos {
-    background-color: rgb(228, 222, 106);
+    background: radial-gradient(circle, #fffa65, #ffaf40);
     border-radius: 2%;
     color: black;
     padding: 2px 50px;
+}
+
+#compromiso {
+    margin-bottom: 57px;
 }
